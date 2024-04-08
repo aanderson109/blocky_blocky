@@ -1,4 +1,4 @@
-![blocky blocky](images/blockyblocky.png)
+![blocky blocky](images/blocky_output.png)
 
 # blocky blocky
 A simple, python-based blockchain.
